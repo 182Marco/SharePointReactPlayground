@@ -1,8 +1,4 @@
-# React SPFx Playground for SharePoint
-
-
-
-
+# React SPFx Playground
 
 
 Welcome to my personal **React SPFx (SharePoint Framework)** playground!  
