@@ -1,4 +1,4 @@
-# React SPFx Playground for SharePoint
+# React SPFx Playground 
 
 
 
